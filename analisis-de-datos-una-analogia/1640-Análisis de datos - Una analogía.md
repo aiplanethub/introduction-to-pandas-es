@@ -1,3 +1,3 @@
 Entendamos el análisis de datos con un ejemplo.
-Imagina que tienes una granja de manzanas y quieres saber la cantidad de manzanas que cultivas.Pero estás demasiado ocupado con la granja por lo que contratas a alguien para que las cuente. Usted también vende sus manzanas y obtiene su contador de manzanas para llevar un registro de la cantidad de manzanas que tiene al principio y al final del día, todos los días.
+Imagine que tiene una granja de manzanas y quiere saber la cantidad de manzanas que cultiva, pero está demasiado ocupado con la granja, por lo que contrata a alguien más para que las cuente. Además, usted vende las manzanas y las cuenta para mantener un registro de la cantidad de manzanas que tiene al inicio y al final del día, todos los días.
 Pasan muchos días y meses y junta hoja tras hoja del conteo de manzanas y descubre patrones y tendencias en el comportamiento de compra de sus clientes.
