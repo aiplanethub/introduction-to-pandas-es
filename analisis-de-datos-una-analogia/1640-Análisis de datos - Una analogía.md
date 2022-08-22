@@ -20,6 +20,6 @@ Así, recogiendo todas las palabras anteriores:
 **El análisis de datos es un método de recolección, organización y, si es necesario, tratamiento de los datos, para poder obtener información útil a partir de estos.**
 
 ## Análisis de datos y *Pandas*
-Pandas es una herramienta en Python que le permite recolectar (o leer) datos desde un archivo, organizarlos en formato tabular, manipularlos y limpiarlos, en caso de ser necesario, para finalmente  obtener información valiosa.
+Pandas es una herramienta en Python que le permite recolectar (o leer) datos desde un archivo, organizarlos en formato tabular, manipularlos y limpiarlos, en caso de ser necesario, para finalmente  obtener información valiosa de ellos.
 
 ![image_2454d307b3404e158bae0eedcdd90329.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_2454d307b3404e158bae0eedcdd90329_3118f1a9da0a4008be4d0014cd78b576.png)
