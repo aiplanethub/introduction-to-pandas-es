@@ -16,6 +16,7 @@ Cuando tenga suficientes datos, encontrará tendencias y patrones en su producci
 Como agricultor de manzanas, usted hizo de forma organizada el recuento de manzanas al inicio y al final de cada día. Al final, obtuvo información detallada (es decir, tendencias y patrones en las ventas de manzanas) a partir de esos datos. Esto se llama análisis de datos.
 
 Así, recogiendo todas las palabras anteriores:
+
 **El análisis de datos es un método de recolección, organización y, si es necesario, tratamiento de los datos, para poder obtener información útil a partir de estos.**
 
 ## Análisis de datos y *Pandas*
